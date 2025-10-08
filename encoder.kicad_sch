@@ -2222,7 +2222,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28867f89-1c9f-4e0c-84ba-6c5fd76e12b1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0147"
 			(at 36.83 31.75 0)
 			(effects
 				(font
@@ -2271,7 +2271,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR?")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -2287,7 +2287,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dea1e35-02a2-4e0c-8dcb-b7b48114e01f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0146"
 			(at 71.12 49.53 0)
 			(effects
 				(font
@@ -2336,7 +2336,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR?")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -2754,7 +2754,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8e1e8ff-df7d-497f-b238-b5f6e07dfa3b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0145"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -2803,7 +2803,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR?")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -2896,7 +2896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5356287-f336-40fb-a3ad-3a9187d5ef92")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0148"
 			(at 38.1 49.53 0)
 			(effects
 				(font
@@ -2945,7 +2945,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR?")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -2960,7 +2960,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c72ae023-e39f-4719-ae28-fb432ff5e8e3")
-		(property "Reference" "J?"
+		(property "Reference" "J34"
 			(at 48.895 34.909 0)
 			(effects
 				(font
@@ -3022,7 +3022,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "J?")
+					(reference "J34")
 					(unit 1)
 				)
 			)
@@ -3114,7 +3114,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f378c1de-06ea-4bdd-9939-1e09960a2ba9")
-		(property "Reference" "J?"
+		(property "Reference" "J35"
 			(at 81.915 34.909 0)
 			(effects
 				(font
@@ -3176,7 +3176,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "J?")
+					(reference "J35")
 					(unit 1)
 				)
 			)

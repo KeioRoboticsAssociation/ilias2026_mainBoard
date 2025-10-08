@@ -617,6 +617,34 @@
     [
       "288b008e-4fe6-4fcf-a484-d519592de325",
       "Root"
+    ],
+    [
+      "bbf41d6f-b9e1-40ca-b7d5-b0e7abfa8330",
+      "REGULATOR"
+    ],
+    [
+      "a2277374-1148-40a7-b5a9-92fb07a5018d",
+      "ENCODER"
+    ],
+    [
+      "ca91cf43-2552-433f-8ccb-9e849346f8f8",
+      "LIMIT_SWITCH"
+    ],
+    [
+      "6ae9977e-919b-4292-b0e6-ff735491d0d2",
+      "RS485"
+    ],
+    [
+      "aeb381f1-9a87-43b8-a9bc-465cac800b72",
+      "CAN"
+    ],
+    [
+      "6646f01f-a2b4-4ddb-9fd5-82c7b2d7f873",
+      "WTT12L"
+    ],
+    [
+      "4c5acf8a-e8b2-46e6-aff7-72cd28b0a4c6",
+      "MOTOR"
     ]
   ],
   "text_variables": {}

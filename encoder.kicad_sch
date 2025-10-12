@@ -2047,7 +2047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16cc18df-8eee-4361-addd-8c81a4ed2378")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR063"
 			(at 101.6 31.75 0)
 			(effects
 				(font
@@ -2096,7 +2096,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR060")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -2112,7 +2112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b8c2609-d9a3-412a-92e0-c989ee65167d")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR064"
 			(at 102.87 49.53 0)
 			(effects
 				(font
@@ -2161,7 +2161,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR061")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -2177,7 +2177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "235914b0-5be6-4a1e-a633-1730c1a05fa0")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR067"
 			(at 170.18 31.75 0)
 			(effects
 				(font
@@ -2226,7 +2226,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR064")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -2242,7 +2242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28867f89-1c9f-4e0c-84ba-6c5fd76e12b1")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR059"
 			(at 36.83 31.75 0)
 			(effects
 				(font
@@ -2291,7 +2291,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR056")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -2307,7 +2307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dea1e35-02a2-4e0c-8dcb-b7b48114e01f")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR062"
 			(at 71.12 49.53 0)
 			(effects
 				(font
@@ -2356,7 +2356,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR059")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -2449,7 +2449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ee2b2f-ecf8-4b7f-b04c-e45f34901356")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR070"
 			(at 212.09 49.53 0)
 			(effects
 				(font
@@ -2498,7 +2498,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR067")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -2514,7 +2514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "388af415-24bd-479b-a643-3ce1988daa3c")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR066"
 			(at 134.62 49.53 0)
 			(effects
 				(font
@@ -2563,7 +2563,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR063")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -2579,7 +2579,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4877bf87-b9f1-4136-a055-056f939cf854")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR069"
 			(at 210.82 31.75 0)
 			(effects
 				(font
@@ -2628,7 +2628,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR066")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -2644,7 +2644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7eb689-fd47-4984-adf0-8eec52baebbc")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR068"
 			(at 171.45 49.53 0)
 			(effects
 				(font
@@ -2693,7 +2693,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR065")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -2709,7 +2709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0792e16-89ba-4afa-83a3-677a6a19dd2b")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR065"
 			(at 133.35 31.75 0)
 			(effects
 				(font
@@ -2758,7 +2758,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR062")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -2774,7 +2774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8e1e8ff-df7d-497f-b238-b5f6e07dfa3b")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR061"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -2823,7 +2823,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR058")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2916,7 +2916,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5356287-f336-40fb-a3ad-3a9187d5ef92")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR060"
 			(at 38.1 49.53 0)
 			(effects
 				(font
@@ -2965,7 +2965,7 @@
 		(instances
 			(project "NHK2026_mainboard"
 				(path "/288b008e-4fe6-4fcf-a484-d519592de325/a2277374-1148-40a7-b5a9-92fb07a5018d"
-					(reference "#PWR057")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)

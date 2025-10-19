@@ -54,42 +54,6 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|100621320|53000000|a81a8fb4-1750-451f-8e21-1292fbfabb37|26ccf99d-dd4f-4808-8b3c-a685cc2a40f8",
-          ""
-        ],
-        [
-          "copper_edge_clearance|100621320|53000000|a81a8fb4-1750-451f-8e21-1292fbfabb37|ff363feb-7482-4549-b2fa-163eabf70e19",
-          ""
-        ],
-        [
-          "copper_edge_clearance|103121320|149500000|c3585de0-c62c-41ac-9aba-1d9c219bfc3a|19d3c586-5965-462b-aa76-ec962553c845",
-          ""
-        ],
-        [
-          "copper_edge_clearance|103121320|149500000|c3585de0-c62c-41ac-9aba-1d9c219bfc3a|b1801ba7-c19f-4b52-adf8-ee3ead23958f",
-          ""
-        ],
-        [
-          "copper_edge_clearance|197121320|149500000|c3585de0-c62c-41ac-9aba-1d9c219bfc3a|374754c2-200c-441b-9074-366641863ae6",
-          ""
-        ],
-        [
-          "copper_edge_clearance|197121320|149500000|c3585de0-c62c-41ac-9aba-1d9c219bfc3a|6f57dafd-c041-4444-9041-bdefea6948b6",
-          ""
-        ],
-        [
-          "copper_edge_clearance|199621320|53000000|49423e6c-0607-46fd-9a76-2bdac70bacb1|167e0a84-988d-44a4-89d2-9f456ecc3801",
-          ""
-        ],
-        [
-          "copper_edge_clearance|199621320|53000000|49423e6c-0607-46fd-9a76-2bdac70bacb1|de2d4893-5272-44b3-9cb1-861e64baa9aa",
-          ""
-        ],
-        [
-          "courtyards_overlap|165137000|122153500|52c52bd1-cb21-4b8c-864e-dc25855e11e4|73290a44-ed81-4b05-aef6-4325b0604c47",
-          ""
-        ],
-        [
           "silk_over_copper|110332156|143763364|5d3146b7-5f9b-41b9-9528-c79330c34789|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -103,10 +67,6 @@
         ],
         [
           "silk_overlap|0|0|70d48b1d-242c-4771-9fb9-6bbee89cffcd|b7b97726-7308-4d19-b471-8815e7b04d7a",
-          ""
-        ],
-        [
-          "silk_overlap|134366000|133056108|2d22c252-d6b1-4053-9219-05d0a0a641a8|7bdbd6a7-ad40-4b0b-b639-40dabcd3b046",
           ""
         ],
         [
@@ -556,7 +516,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber_mainboard/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -601,22 +561,22 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -629,14 +589,104 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "説明",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "リファレンス"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -675,7 +725,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./gerber_mainboard",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
